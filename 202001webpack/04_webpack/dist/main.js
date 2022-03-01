@@ -1,0 +1,1 @@
+(()=>{var o={85:o=>{o.exports={plus:function(o,r){return o+r}}}},r={};function t(s){var e=r[s];if(void 0!==e)return e.exports;var n=r[s]={exports:{}};return o[s](n,n.exports,t),n.exports}(()=>{"use strict";const{plus:o}=t(85);console.log(o(20,10)),console.log(10)})()})();
